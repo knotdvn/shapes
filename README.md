@@ -23,7 +23,7 @@ its fiber infrastructure in cities well above sea level and inland. ;-)
 part3 = part3.js
 --- I grabbed the playfair data, used the classes we wrote for this excercise.
 
---- I thought maybe this was more about having meaningful inferences "jump out" than it was about me spooling up d3 and making lots of responsive animated transitions.
+--- this was more about having meaningful inferences "jump out" than it was about me spooling up d3 and making lots of responsive animated transitions.
 
 ---The width of the red bar is relative to the diameter of the city
 
