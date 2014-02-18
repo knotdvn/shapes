@@ -1,0 +1,38 @@
+ time algorithm machine   input 
+ 1 1.25       7th     vax integer
+ 2 1.39       7th     vax   float
+ 3 1.78       7th     vax  double
+ 4 3.24       7th     vax  record
+ 5 2.48       7th     vax pointer
+ 6 3.89       7th     vax  string
+ 7 0.80       ucb     vax integer
+ 8 0.89       ucb     vax   float
+ 9 1.23       ucb     vax  double
+10 2.01       ucb     vax  record
+11 2.10       ucb     vax pointer
+12 2.82       ucb     vax  string
+13 0.57       new     vax integer
+14 0.68       new     vax   float
+15 0.88       new     vax  double
+16 0.88       new     vax  record
+17 1.70       new     vax pointer
+18 1.62       new     vax  string
+19 0.97       7th    mips integer
+20 0.96       7th    mips   float
+21 1.67       7th    mips  double
+22 3.89       7th    mips  record
+23 1.36       7th    mips pointer
+24 4.17       7th    mips  string
+25 0.53       ucb    mips integer
+26 0.56       ucb    mips   float
+27 1.01       ucb    mips  double
+28 2.20       ucb    mips  record
+29 0.93       ucb    mips pointer
+30 2.31       ucb    mips  string
+31 0.17       new    mips integer
+32 0.21       new    mips   float
+33 0.27       new    mips  double
+34 0.28       new    mips  record
+35 0.52       new    mips pointer
+36 0.45       new    mips  string
+
